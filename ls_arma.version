@@ -1,0 +1,12 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/MycophobiaSC/Orky_Sector_Arma_Addon/refs/heads/main/ls_arma.version",
+    "modName":"Orky Sector - Arma Addon",
+    "modThreadId":29956,
+	"directDownloadURL": "https://github.com/MycophobiaSC/Orky_Sector_Arma_Addon/releases/download/v0.1/Orky.Sector.-.Arma.Addon.zip",
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0,
+    },
+}
